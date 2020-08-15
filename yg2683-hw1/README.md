@@ -1,3 +1,4 @@
+# HW1: Stance Classification
 Run classifier with command line arguments like: 
 python classify.py stance-data.csv "abortion"
 or
